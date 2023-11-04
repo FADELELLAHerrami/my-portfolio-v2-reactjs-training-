@@ -10,7 +10,7 @@ export default function Home(){
         <div className="Home">
             <h1>ABOUT ME</h1>
             <p>
-                I recently graduated with a professional bachelor s degree in Information Systems and Software Engineering
+                I recently graduated with a professional bachelor's degree in Information Systems and Software Engineering
                 from the Higher School of Technology in Essaouira. Before that, I earned a university technology diploma (DUT)
                 in Computer Engineering from the Higher School of Technology in Sidi Bennour. My academic background has equipped
                 me with a strong foundation in web and mobile programming, database management, UML design, and computer networking.
